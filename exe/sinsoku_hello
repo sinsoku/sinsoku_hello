@@ -2,3 +2,5 @@
 # frozen_string_literal: true
 
 require "sinsoku_hello"
+
+SinsokuHello.say
